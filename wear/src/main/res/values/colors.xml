@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="hour_hand">#666666</color>
-    <color name="minute_hand">#666666</color>
+    <color name="hour_hand">#ffffff</color>
+    <color name="minute_hand">#ffffff</color>
     <color name="second_hand">#ff981010</color>
 </resources>
